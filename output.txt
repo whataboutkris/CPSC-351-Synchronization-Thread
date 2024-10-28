@@ -1,0 +1,1201 @@
+Pushed: 56. Stack: 56 
+Pushed: 42. Stack: 42 56 
+Pushed: 66. Stack: 66 42 56 
+Popped: 66. Stack: 42 56 
+Popped: 42. Stack: 56 
+Popped: 56. Stack: 
+Pushed: 60. Stack: 60 
+Pushed: 90. Stack: 90 60 
+Pushed: 30. Stack: 30 90 60 
+Popped: 30. Stack: 90 60 
+Pushed: 86. Stack: 86 90 60 
+Pushed: 73. Stack: 73 86 90 60 
+Pushed: 3. Stack: 3 73 86 90 60 
+Popped: 3. Stack: 73 86 90 60 
+Popped: 73. Stack: 86 90 60 
+Popped: 86. Stack: 90 60 
+Pushed: 69. Stack: 69 90 60 
+Pushed: 67. Stack: 67 69 90 60 
+Pushed: 87. Stack: 87 67 69 90 60 
+Popped: 87. Stack: 67 69 90 60 
+Popped: 67. Stack: 69 90 60 
+Popped: 69. Stack: 90 60 
+Pushed: 99. Stack: 99 90 60 
+Pushed: 99. Stack: 99 99 90 60 
+Pushed: 24. Stack: 24 99 99 90 60 
+Popped: 24. Stack: 99 99 90 60 
+Popped: 99. Stack: 99 90 60 
+Popped: 99. Stack: 90 60 
+Pushed: 25. Stack: 25 90 60 
+Pushed: 82. Stack: 82 25 90 60 
+Pushed: 65. Stack: 65 82 25 90 60 
+Popped: 65. Stack: 82 25 90 60 
+Popped: 82. Stack: 25 90 60 
+Popped: 25. Stack: 90 60 
+Pushed: 95. Stack: 95 90 60 
+Pushed: 51. Stack: 51 95 90 60 
+Pushed: 28. Stack: 28 51 95 90 60 
+Popped: 28. Stack: 51 95 90 60 
+Popped: 51. Stack: 95 90 60 
+Popped: 95. Stack: 90 60 
+Pushed: 90. Stack: 90 90 60 
+Pushed: 74. Stack: 74 90 90 60 
+Pushed: 1. Stack: 1 74 90 90 60 
+Popped: 1. Stack: 74 90 90 60 
+Popped: 74. Stack: 90 90 60 
+Popped: 90. Stack: 90 60 
+Pushed: 41. Stack: 41 90 60 
+Pushed: 88. Stack: 88 41 90 60 
+Pushed: 82. Stack: 82 88 41 90 60 
+Popped: 82. Stack: 88 41 90 60 
+Popped: 88. Stack: 41 90 60 
+Popped: 41. Stack: 90 60 
+Popped: 90. Stack: 60 
+Pushed: 44. Stack: 44 60 
+Pushed: 37. Stack: 37 44 60 
+Pushed: 47. Stack: 47 37 44 60 
+Popped: 47. Stack: 37 44 60 
+Popped: 37. Stack: 44 60 
+Popped: 44. Stack: 60 
+Pushed: 89. Stack: 89 60 
+Pushed: 22. Stack: 22 89 60 
+Pushed: 68. Stack: 68 22 89 60 
+Popped: 68. Stack: 22 89 60 
+Popped: 22. Stack: 89 60 
+Popped: 89. Stack: 60 
+Pushed: 66. Stack: 66 60 
+Pushed: 73. Stack: 73 66 60 
+Pushed: 48. Stack: 48 73 66 60 
+Pushed: 51. Stack: 51 48 73 66 60 
+Popped: 51. Stack: 48 73 66 60 
+Popped: 48. Stack: 73 66 60 
+Popped: 73. Stack: 66 60 
+Pushed: 19. Stack: 19 66 60 
+Pushed: 90. Stack: 90 19 66 60 
+Popped: 90. Stack: 19 66 60 
+Pushed: 67. Stack: 67 19 66 60 
+Pushed: 40. Stack: 40 67 19 66 60 
+Pushed: 24. Stack: 24 40 67 19 66 60 
+Popped: 24. Stack: 40 67 19 66 60 
+Popped: 40. Stack: 67 19 66 60 
+Popped: 67. Stack: 19 66 60 
+Pushed: 76. Stack: 76 19 66 60 
+Pushed: 96. Stack: 96 76 19 66 60 
+Pushed: 47. Stack: 47 96 76 19 66 60 
+Popped: 47. Stack: 96 76 19 66 60 
+Popped: 96. Stack: 76 19 66 60 
+Popped: 76. Stack: 19 66 60 
+Pushed: 9. Stack: 9 19 66 60 
+Pushed: 80. Stack: 80 9 19 66 60 
+Pushed: 97. Stack: 97 80 9 19 66 60 
+Pushed: 44. Stack: 44 97 80 9 19 66 60 
+Popped: 44. Stack: 97 80 9 19 66 60 
+Popped: 97. Stack: 80 9 19 66 60 
+Popped: 80. Stack: 9 19 66 60 
+Pushed: 84. Stack: 84 9 19 66 60 
+Pushed: 46. Stack: 46 84 9 19 66 60 
+Pushed: 41. Stack: 41 46 84 9 19 66 60 
+Pushed: 87. Stack: 87 41 46 84 9 19 66 60 
+Pushed: 94. Stack: 94 87 41 46 84 9 19 66 60 
+Pushed: 37. Stack: 37 94 87 41 46 84 9 19 66 60 
+Popped: 37. Stack: 94 87 41 46 84 9 19 66 60 
+Popped: 94. Stack: 87 41 46 84 9 19 66 60 
+Popped: 87. Stack: 41 46 84 9 19 66 60 
+Pushed: 92. Stack: 92 41 46 84 9 19 66 60 
+Pushed: 2. Stack: 2 92 41 46 84 9 19 66 60 
+Pushed: 64. Stack: 64 2 92 41 46 84 9 19 66 60 
+Popped: 64. Stack: 2 92 41 46 84 9 19 66 60 
+Popped: 2. Stack: 92 41 46 84 9 19 66 60 
+Popped: 92. Stack: 41 46 84 9 19 66 60 
+Pushed: 15. Stack: 15 41 46 84 9 19 66 60 
+Pushed: 5. Stack: 5 15 41 46 84 9 19 66 60 
+Pushed: 41. Stack: 41 5 15 41 46 84 9 19 66 60 
+Popped: 41. Stack: 5 15 41 46 84 9 19 66 60 
+Popped: 5. Stack: 15 41 46 84 9 19 66 60 
+Popped: 15. Stack: 41 46 84 9 19 66 60 
+Pushed: 82. Stack: 82 41 46 84 9 19 66 60 
+Pushed: 25. Stack: 25 82 41 46 84 9 19 66 60 
+Pushed: 7. Stack: 7 25 82 41 46 84 9 19 66 60 
+Popped: 7. Stack: 25 82 41 46 84 9 19 66 60 
+Popped: 25. Stack: 82 41 46 84 9 19 66 60 
+Popped: 82. Stack: 41 46 84 9 19 66 60 
+Popped: 41. Stack: 46 84 9 19 66 60 
+Pushed: 63. Stack: 63 46 84 9 19 66 60 
+Pushed: 71. Stack: 71 63 46 84 9 19 66 60 
+Pushed: 26. Stack: 26 71 63 46 84 9 19 66 60 
+Popped: 26. Stack: 71 63 46 84 9 19 66 60 
+Popped: 71. Stack: 63 46 84 9 19 66 60 
+Popped: 63. Stack: 46 84 9 19 66 60 
+Pushed: 12. Stack: 12 46 84 9 19 66 60 
+Pushed: 57. Stack: 57 12 46 84 9 19 66 60 
+Pushed: 45. Stack: 45 57 12 46 84 9 19 66 60 
+Popped: 45. Stack: 57 12 46 84 9 19 66 60 
+Popped: 57. Stack: 12 46 84 9 19 66 60 
+Popped: 12. Stack: 46 84 9 19 66 60 
+Pushed: 76. Stack: 76 46 84 9 19 66 60 
+Pushed: 49. Stack: 49 76 46 84 9 19 66 60 
+Popped: 49. Stack: 76 46 84 9 19 66 60 
+Popped: 76. Stack: 46 84 9 19 66 60 
+Popped: 46. Stack: 84 9 19 66 60 
+Popped: 84. Stack: 9 19 66 60 
+Popped: 9. Stack: 19 66 60 
+Pushed: 2. Stack: 2 19 66 60 
+Pushed: 80. Stack: 80 2 19 66 60 
+Pushed: 88. Stack: 88 80 2 19 66 60 
+Popped: 88. Stack: 80 2 19 66 60 
+Popped: 80. Stack: 2 19 66 60 
+Popped: 2. Stack: 19 66 60 
+Pushed: 5. Stack: 5 19 66 60 
+Pushed: 28. Stack: 28 5 19 66 60 
+Pushed: 84. Stack: 84 28 5 19 66 60 
+Popped: 84. Stack: 28 5 19 66 60 
+Popped: 28. Stack: 5 19 66 60 
+Popped: 5. Stack: 19 66 60 
+Pushed: 31. Stack: 31 19 66 60 
+Pushed: 11. Stack: 11 31 19 66 60 
+Pushed: 26. Stack: 26 11 31 19 66 60 
+Popped: 26. Stack: 11 31 19 66 60 
+Popped: 11. Stack: 31 19 66 60 
+Popped: 31. Stack: 19 66 60 
+Pushed: 18. Stack: 18 19 66 60 
+Pushed: 54. Stack: 54 18 19 66 60 
+Pushed: 5. Stack: 5 54 18 19 66 60 
+Popped: 5. Stack: 54 18 19 66 60 
+Popped: 54. Stack: 18 19 66 60 
+Popped: 18. Stack: 19 66 60 
+Pushed: 35. Stack: 35 19 66 60 
+Pushed: 60. Stack: 60 35 19 66 60 
+Pushed: 22. Stack: 22 60 35 19 66 60 
+Popped: 22. Stack: 60 35 19 66 60 
+Popped: 60. Stack: 35 19 66 60 
+Popped: 35. Stack: 19 66 60 
+Pushed: 79. Stack: 79 19 66 60 
+Pushed: 45. Stack: 45 79 19 66 60 
+Pushed: 52. Stack: 52 45 79 19 66 60 
+Pushed: 86. Stack: 86 52 45 79 19 66 60 
+Pushed: 40. Stack: 40 86 52 45 79 19 66 60 
+Popped: 40. Stack: 86 52 45 79 19 66 60 
+Popped: 86. Stack: 52 45 79 19 66 60 
+Popped: 52. Stack: 45 79 19 66 60 
+Pushed: 28. Stack: 28 45 79 19 66 60 
+Pushed: 31. Stack: 31 28 45 79 19 66 60 
+Pushed: 62. Stack: 62 31 28 45 79 19 66 60 
+Popped: 62. Stack: 31 28 45 79 19 66 60 
+Popped: 31. Stack: 28 45 79 19 66 60 
+Popped: 28. Stack: 45 79 19 66 60 
+Pushed: 43. Stack: 43 45 79 19 66 60 
+Popped: 43. Stack: 45 79 19 66 60 
+Popped: 45. Stack: 79 19 66 60 
+Popped: 79. Stack: 19 66 60 
+Pushed: 48. Stack: 48 19 66 60 
+Pushed: 85. Stack: 85 48 19 66 60 
+Pushed: 43. Stack: 43 85 48 19 66 60 
+Popped: 43. Stack: 85 48 19 66 60 
+Popped: 85. Stack: 48 19 66 60 
+Popped: 48. Stack: 19 66 60 
+Pushed: 58. Stack: 58 19 66 60 
+Pushed: 62. Stack: 62 58 19 66 60 
+Pushed: 99. Stack: 99 62 58 19 66 60 
+Popped: 99. Stack: 62 58 19 66 60 
+Popped: 62. Stack: 58 19 66 60 
+Popped: 58. Stack: 19 66 60 
+Pushed: 54. Stack: 54 19 66 60 
+Pushed: 14. Stack: 14 54 19 66 60 
+Pushed: 3. Stack: 3 14 54 19 66 60 
+Popped: 3. Stack: 14 54 19 66 60 
+Popped: 14. Stack: 54 19 66 60 
+Popped: 54. Stack: 19 66 60 
+Pushed: 51. Stack: 51 19 66 60 
+Pushed: 88. Stack: 88 51 19 66 60 
+Pushed: 15. Stack: 15 88 51 19 66 60 
+Pushed: 38. Stack: 38 15 88 51 19 66 60 
+Popped: 38. Stack: 15 88 51 19 66 60 
+Popped: 15. Stack: 88 51 19 66 60 
+Popped: 88. Stack: 51 19 66 60 
+Pushed: 6. Stack: 6 51 19 66 60 
+Pushed: 49. Stack: 49 6 51 19 66 60 
+Pushed: 18. Stack: 18 49 6 51 19 66 60 
+Popped: 18. Stack: 49 6 51 19 66 60 
+Popped: 49. Stack: 6 51 19 66 60 
+Popped: 6. Stack: 51 19 66 60 
+Pushed: 61. Stack: 61 51 19 66 60 
+Pushed: 43. Stack: 43 61 51 19 66 60 
+Pushed: 63. Stack: 63 43 61 51 19 66 60 
+Popped: 63. Stack: 43 61 51 19 66 60 
+Popped: 43. Stack: 61 51 19 66 60 
+Popped: 61. Stack: 51 19 66 60 
+Pushed: 64. Stack: 64 51 19 66 60 
+Pushed: 91. Stack: 91 64 51 19 66 60 
+Pushed: 60. Stack: 60 91 64 51 19 66 60 
+Popped: 60. Stack: 91 64 51 19 66 60 
+Popped: 91. Stack: 64 51 19 66 60 
+Popped: 64. Stack: 51 19 66 60 
+Pushed: 66. Stack: 66 51 19 66 60 
+Pushed: 39. Stack: 39 66 51 19 66 60 
+Popped: 39. Stack: 66 51 19 66 60 
+Popped: 66. Stack: 51 19 66 60 
+Popped: 51. Stack: 19 66 60 
+Pushed: 74. Stack: 74 19 66 60 
+Pushed: 68. Stack: 68 74 19 66 60 
+Pushed: 1. Stack: 1 68 74 19 66 60 
+Pushed: 72. Stack: 72 1 68 74 19 66 60 
+Pushed: 91. Stack: 91 72 1 68 74 19 66 60 
+Popped: 91. Stack: 72 1 68 74 19 66 60 
+Popped: 72. Stack: 1 68 74 19 66 60 
+Popped: 1. Stack: 68 74 19 66 60 
+Pushed: 71. Stack: 71 68 74 19 66 60 
+Pushed: 20. Stack: 20 71 68 74 19 66 60 
+Pushed: 20. Stack: 20 20 71 68 74 19 66 60 
+Popped: 20. Stack: 20 71 68 74 19 66 60 
+Popped: 20. Stack: 71 68 74 19 66 60 
+Popped: 71. Stack: 68 74 19 66 60 
+Pushed: 84. Stack: 84 68 74 19 66 60 
+Popped: 84. Stack: 68 74 19 66 60 
+Popped: 68. Stack: 74 19 66 60 
+Popped: 74. Stack: 19 66 60 
+Popped: 19. Stack: 66 60 
+Popped: 66. Stack: 60 
+Popped: 60. Stack: 
+Pushed: 38. Stack: 38 
+Pushed: 8. Stack: 8 38 
+Pushed: 86. Stack: 86 8 38 
+Popped: 86. Stack: 8 38 
+Popped: 8. Stack: 38 
+Popped: 38. Stack: 
+Pushed: 77. Stack: 77 
+Pushed: 17. Stack: 17 77 
+Pushed: 80. Stack: 80 17 77 
+Pushed: 0. Stack: 0 80 17 77 
+Pushed: 52. Stack: 52 0 80 17 77 
+Pushed: 57. Stack: 57 52 0 80 17 77 
+Popped: 57. Stack: 52 0 80 17 77 
+Popped: 52. Stack: 0 80 17 77 
+Popped: 0. Stack: 80 17 77 
+Pushed: 93. Stack: 93 80 17 77 
+Pushed: 23. Stack: 23 93 80 17 77 
+Pushed: 24. Stack: 24 23 93 80 17 77 
+Pushed: 75. Stack: 75 24 23 93 80 17 77 
+Pushed: 36. Stack: 36 75 24 23 93 80 17 77 
+Popped: 36. Stack: 75 24 23 93 80 17 77 
+Popped: 75. Stack: 24 23 93 80 17 77 
+Popped: 24. Stack: 23 93 80 17 77 
+Pushed: 3. Stack: 3 23 93 80 17 77 
+Pushed: 0. Stack: 0 3 23 93 80 17 77 
+Pushed: 22. Stack: 22 0 3 23 93 80 17 77 
+Popped: 22. Stack: 0 3 23 93 80 17 77 
+Popped: 0. Stack: 3 23 93 80 17 77 
+Popped: 3. Stack: 23 93 80 17 77 
+Pushed: 10. Stack: 10 23 93 80 17 77 
+Pushed: 16. Stack: 16 10 23 93 80 17 77 
+Pushed: 26. Stack: 26 16 10 23 93 80 17 77 
+Pushed: 42. Stack: 42 26 16 10 23 93 80 17 77 
+Popped: 42. Stack: 26 16 10 23 93 80 17 77 
+Popped: 26. Stack: 16 10 23 93 80 17 77 
+Popped: 16. Stack: 10 23 93 80 17 77 
+Pushed: 97. Stack: 97 10 23 93 80 17 77 
+Pushed: 71. Stack: 71 97 10 23 93 80 17 77 
+Pushed: 40. Stack: 40 71 97 10 23 93 80 17 77 
+Pushed: 81. Stack: 81 40 71 97 10 23 93 80 17 77 
+Pushed: 53. Stack: 53 81 40 71 97 10 23 93 80 17 77 
+Popped: 53. Stack: 81 40 71 97 10 23 93 80 17 77 
+Popped: 81. Stack: 40 71 97 10 23 93 80 17 77 
+Popped: 40. Stack: 71 97 10 23 93 80 17 77 
+Pushed: 22. Stack: 22 71 97 10 23 93 80 17 77 
+Pushed: 34. Stack: 34 22 71 97 10 23 93 80 17 77 
+Pushed: 1. Stack: 1 34 22 71 97 10 23 93 80 17 77 
+Popped: 1. Stack: 34 22 71 97 10 23 93 80 17 77 
+Popped: 34. Stack: 22 71 97 10 23 93 80 17 77 
+Popped: 22. Stack: 71 97 10 23 93 80 17 77 
+Pushed: 97. Stack: 97 71 97 10 23 93 80 17 77 
+Popped: 97. Stack: 71 97 10 23 93 80 17 77 
+Popped: 71. Stack: 97 10 23 93 80 17 77 
+Popped: 97. Stack: 10 23 93 80 17 77 
+Pushed: 20. Stack: 20 10 23 93 80 17 77 
+Pushed: 74. Stack: 74 20 10 23 93 80 17 77 
+Pushed: 38. Stack: 38 74 20 10 23 93 80 17 77 
+Popped: 38. Stack: 74 20 10 23 93 80 17 77 
+Popped: 74. Stack: 20 10 23 93 80 17 77 
+Popped: 20. Stack: 10 23 93 80 17 77 
+Pushed: 13. Stack: 13 10 23 93 80 17 77 
+Pushed: 77. Stack: 77 13 10 23 93 80 17 77 
+Pushed: 78. Stack: 78 77 13 10 23 93 80 17 77 
+Popped: 78. Stack: 77 13 10 23 93 80 17 77 
+Popped: 77. Stack: 13 10 23 93 80 17 77 
+Popped: 13. Stack: 10 23 93 80 17 77 
+Popped: 10. Stack: 23 93 80 17 77 
+Popped: 23. Stack: 93 80 17 77 
+Popped: 93. Stack: 80 17 77 
+Pushed: 61. Stack: 61 80 17 77 
+Popped: 61. Stack: 80 17 77 
+Popped: 80. Stack: 17 77 
+Popped: 17. Stack: 77 
+Pushed: 29. Stack: 29 77 
+Pushed: 51. Stack: 51 29 77 
+Pushed: 95. Stack: 95 51 29 77 
+Popped: 95. Stack: 51 29 77 
+Popped: 51. Stack: 29 77 
+Popped: 29. Stack: 77 
+Pushed: 23. Stack: 23 77 
+Pushed: 55. Stack: 55 23 77 
+Pushed: 33. Stack: 33 55 23 77 
+Pushed: 32. Stack: 32 33 55 23 77 
+Pushed: 59. Stack: 59 32 33 55 23 77 
+Popped: 59. Stack: 32 33 55 23 77 
+Popped: 32. Stack: 33 55 23 77 
+Popped: 33. Stack: 55 23 77 
+Pushed: 39. Stack: 39 55 23 77 
+Pushed: 29. Stack: 29 39 55 23 77 
+Pushed: 19. Stack: 19 29 39 55 23 77 
+Popped: 19. Stack: 29 39 55 23 77 
+Popped: 29. Stack: 39 55 23 77 
+Popped: 39. Stack: 55 23 77 
+Pushed: 26. Stack: 26 55 23 77 
+Pushed: 3. Stack: 3 26 55 23 77 
+Pushed: 99. Stack: 99 3 26 55 23 77 
+Popped: 99. Stack: 3 26 55 23 77 
+Popped: 3. Stack: 26 55 23 77 
+Popped: 26. Stack: 55 23 77 
+Pushed: 35. Stack: 35 55 23 77 
+Popped: 35. Stack: 55 23 77 
+Popped: 55. Stack: 23 77 
+Popped: 23. Stack: 77 
+Pushed: 42. Stack: 42 77 
+Pushed: 9. Stack: 9 42 77 
+Pushed: 16. Stack: 16 9 42 77 
+Popped: 16. Stack: 9 42 77 
+Popped: 9. Stack: 42 77 
+Popped: 42. Stack: 77 
+Pushed: 46. Stack: 46 77 
+Pushed: 57. Stack: 57 46 77 
+Pushed: 80. Stack: 80 57 46 77 
+Popped: 80. Stack: 57 46 77 
+Popped: 57. Stack: 46 77 
+Popped: 46. Stack: 77 
+Pushed: 97. Stack: 97 77 
+Pushed: 82. Stack: 82 97 77 
+Popped: 82. Stack: 97 77 
+Popped: 97. Stack: 77 
+Popped: 77. Stack: 
+Pushed: 62. Stack: 62 
+Pushed: 63. Stack: 63 62 
+Pushed: 97. Stack: 97 63 62 
+Popped: 97. Stack: 63 62 
+Popped: 63. Stack: 62 
+Popped: 62. Stack: 
+Pushed: 59. Stack: 59 
+Pushed: 83. Stack: 83 59 
+Pushed: 33. Stack: 33 83 59 
+Popped: 33. Stack: 83 59 
+Popped: 83. Stack: 59 
+Pushed: 89. Stack: 89 59 
+Pushed: 67. Stack: 67 89 59 
+Pushed: 71. Stack: 71 67 89 59 
+Popped: 71. Stack: 67 89 59 
+Popped: 67. Stack: 89 59 
+Popped: 89. Stack: 59 
+Pushed: 93. Stack: 93 59 
+Pushed: 16. Stack: 16 93 59 
+Pushed: 68. Stack: 68 16 93 59 
+Popped: 68. Stack: 16 93 59 
+Popped: 16. Stack: 93 59 
+Popped: 93. Stack: 59 
+Pushed: 96. Stack: 96 59 
+Pushed: 64. Stack: 64 96 59 
+Pushed: 32. Stack: 32 64 96 59 
+Popped: 32. Stack: 64 96 59 
+Popped: 64. Stack: 96 59 
+Popped: 96. Stack: 59 
+Pushed: 85. Stack: 85 59 
+Pushed: 36. Stack: 36 85 59 
+Pushed: 66. Stack: 66 36 85 59 
+Pushed: 74. Stack: 74 66 36 85 59 
+Popped: 74. Stack: 66 36 85 59 
+Popped: 66. Stack: 36 85 59 
+Popped: 36. Stack: 85 59 
+Pushed: 55. Stack: 55 85 59 
+Pushed: 35. Stack: 35 55 85 59 
+Pushed: 36. Stack: 36 35 55 85 59 
+Popped: 36. Stack: 35 55 85 59 
+Popped: 35. Stack: 55 85 59 
+Popped: 55. Stack: 85 59 
+Pushed: 72. Stack: 72 85 59 
+Pushed: 41. Stack: 41 72 85 59 
+Pushed: 53. Stack: 53 41 72 85 59 
+Popped: 53. Stack: 41 72 85 59 
+Popped: 41. Stack: 72 85 59 
+Popped: 72. Stack: 85 59 
+Pushed: 2. Stack: 2 85 59 
+Pushed: 93. Stack: 93 2 85 59 
+Pushed: 24. Stack: 24 93 2 85 59 
+Popped: 24. Stack: 93 2 85 59 
+Popped: 93. Stack: 2 85 59 
+Popped: 2. Stack: 85 59 
+Pushed: 80. Stack: 80 85 59 
+Pushed: 55. Stack: 55 80 85 59 
+Popped: 55. Stack: 80 85 59 
+Popped: 80. Stack: 85 59 
+Popped: 85. Stack: 59 
+Popped: 59. Stack: 
+Pushed: 49. Stack: 49 
+Pushed: 6. Stack: 6 49 
+Pushed: 76. Stack: 76 6 49 
+Popped: 76. Stack: 6 49 
+Popped: 6. Stack: 49 
+Popped: 49. Stack: 
+Pushed: 65. Stack: 65 
+Pushed: 12. Stack: 12 65 
+Pushed: 93. Stack: 93 12 65 
+Popped: 93. Stack: 12 65 
+Popped: 12. Stack: 65 
+Popped: 65. Stack: 
+Pushed: 22. Stack: 22 
+Pushed: 47. Stack: 47 22 
+Pushed: 5. Stack: 5 47 22 
+Popped: 5. Stack: 47 22 
+Popped: 47. Stack: 22 
+Popped: 22. Stack: 
+Pushed: 82. Stack: 82 
+Pushed: 18. Stack: 18 82 
+Pushed: 78. Stack: 78 18 82 
+Popped: 78. Stack: 18 82 
+Popped: 18. Stack: 82 
+Popped: 82. Stack: 
+Pushed: 75. Stack: 75 
+Pushed: 89. Stack: 89 75 
+Pushed: 17. Stack: 17 89 75 
+Popped: 17. Stack: 89 75 
+Popped: 89. Stack: 75 
+Popped: 75. Stack: 
+Pushed: 91. Stack: 91 
+Pushed: 38. Stack: 38 91 
+Pushed: 21. Stack: 21 38 91 
+Pushed: 22. Stack: 22 21 38 91 
+Popped: 22. Stack: 21 38 91 
+Popped: 21. Stack: 38 91 
+Popped: 38. Stack: 91 
+Pushed: 95. Stack: 95 91 
+Pushed: 43. Stack: 43 95 91 
+Pushed: 30. Stack: 30 43 95 91 
+Popped: 30. Stack: 43 95 91 
+Popped: 43. Stack: 95 91 
+Popped: 95. Stack: 91 
+Pushed: 78. Stack: 78 91 
+Pushed: 37. Stack: 37 78 91 
+Pushed: 14. Stack: 14 37 78 91 
+Popped: 14. Stack: 37 78 91 
+Popped: 37. Stack: 78 91 
+Popped: 78. Stack: 91 
+Pushed: 69. Stack: 69 91 
+Pushed: 60. Stack: 60 69 91 
+Pushed: 57. Stack: 57 60 69 91 
+Popped: 57. Stack: 60 69 91 
+Popped: 60. Stack: 69 91 
+Popped: 69. Stack: 91 
+Pushed: 98. Stack: 98 91 
+Pushed: 92. Stack: 92 98 91 
+Pushed: 95. Stack: 95 92 98 91 
+Popped: 95. Stack: 92 98 91 
+Popped: 92. Stack: 98 91 
+Popped: 98. Stack: 91 
+Pushed: 8. Stack: 8 91 
+Pushed: 69. Stack: 69 8 91 
+Pushed: 51. Stack: 51 69 8 91 
+Popped: 51. Stack: 69 8 91 
+Pushed: 61. Stack: 61 69 8 91 
+Pushed: 56. Stack: 56 61 69 8 91 
+Pushed: 67. Stack: 67 56 61 69 8 91 
+Popped: 67. Stack: 56 61 69 8 91 
+Popped: 56. Stack: 61 69 8 91 
+Popped: 61. Stack: 69 8 91 
+Pushed: 31. Stack: 31 69 8 91 
+Pushed: 4. Stack: 4 31 69 8 91 
+Pushed: 28. Stack: 28 4 31 69 8 91 
+Popped: 28. Stack: 4 31 69 8 91 
+Popped: 4. Stack: 31 69 8 91 
+Popped: 31. Stack: 69 8 91 
+Pushed: 14. Stack: 14 69 8 91 
+Pushed: 98. Stack: 98 14 69 8 91 
+Pushed: 11. Stack: 11 98 14 69 8 91 
+Popped: 11. Stack: 98 14 69 8 91 
+Popped: 98. Stack: 14 69 8 91 
+Popped: 14. Stack: 69 8 91 
+Pushed: 11. Stack: 11 69 8 91 
+Pushed: 50. Stack: 50 11 69 8 91 
+Pushed: 15. Stack: 15 50 11 69 8 91 
+Popped: 15. Stack: 50 11 69 8 91 
+Pushed: 74. Stack: 74 50 11 69 8 91 
+Pushed: 82. Stack: 82 74 50 11 69 8 91 
+Pushed: 20. Stack: 20 82 74 50 11 69 8 91 
+Popped: 20. Stack: 82 74 50 11 69 8 91 
+Popped: 82. Stack: 74 50 11 69 8 91 
+Popped: 74. Stack: 50 11 69 8 91 
+Popped: 50. Stack: 11 69 8 91 
+Popped: 11. Stack: 69 8 91 
+Popped: 69. Stack: 8 91 
+Popped: 8. Stack: 91 
+Pushed: 4. Stack: 4 91 
+Pushed: 21. Stack: 21 4 91 
+Pushed: 55. Stack: 55 21 4 91 
+Popped: 55. Stack: 21 4 91 
+Popped: 21. Stack: 4 91 
+Popped: 4. Stack: 91 
+Pushed: 18. Stack: 18 91 
+Pushed: 95. Stack: 95 18 91 
+Pushed: 34. Stack: 34 95 18 91 
+Popped: 34. Stack: 95 18 91 
+Popped: 95. Stack: 18 91 
+Popped: 18. Stack: 91 
+Pushed: 27. Stack: 27 91 
+Pushed: 24. Stack: 24 27 91 
+Pushed: 32. Stack: 32 24 27 91 
+Popped: 32. Stack: 24 27 91 
+Popped: 24. Stack: 27 91 
+Popped: 27. Stack: 91 
+Pushed: 50. Stack: 50 91 
+Pushed: 58. Stack: 58 50 91 
+Pushed: 9. Stack: 9 58 50 91 
+Popped: 9. Stack: 58 50 91 
+Popped: 58. Stack: 50 91 
+Popped: 50. Stack: 91 
+Pushed: 44. Stack: 44 91 
+Pushed: 30. Stack: 30 44 91 
+Pushed: 49. Stack: 49 30 44 91 
+Popped: 49. Stack: 30 44 91 
+Popped: 30. Stack: 44 91 
+Popped: 44. Stack: 91 
+Pushed: 46. Stack: 46 91 
+Pushed: 76. Stack: 76 46 91 
+Popped: 76. Stack: 46 91 
+Popped: 46. Stack: 91 
+Popped: 91. Stack: 
+Pushed: 4. Stack: 4 
+Pushed: 14. Stack: 14 4 
+Pushed: 25. Stack: 25 14 4 
+Popped: 25. Stack: 14 4 
+Popped: 14. Stack: 4 
+Popped: 4. Stack: 
+Pushed: 57. Stack: 57 
+Pushed: 55. Stack: 55 57 
+Pushed: 70. Stack: 70 55 57 
+Popped: 70. Stack: 55 57 
+Popped: 55. Stack: 57 
+Popped: 57. Stack: 
+Pushed: 47. Stack: 47 
+Pushed: 78. Stack: 78 47 
+Pushed: 13. Stack: 13 78 47 
+Popped: 13. Stack: 78 47 
+Popped: 78. Stack: 47 
+Pushed: 13. Stack: 13 47 
+Pushed: 91. Stack: 91 13 47 
+Pushed: 82. Stack: 82 91 13 47 
+Popped: 82. Stack: 91 13 47 
+Popped: 91. Stack: 13 47 
+Popped: 13. Stack: 47 
+Pushed: 60. Stack: 60 47 
+Pushed: 36. Stack: 36 60 47 
+Pushed: 34. Stack: 34 36 60 47 
+Popped: 34. Stack: 36 60 47 
+Popped: 36. Stack: 60 47 
+Popped: 60. Stack: 47 
+Pushed: 53. Stack: 53 47 
+Pushed: 7. Stack: 7 53 47 
+Pushed: 73. Stack: 73 7 53 47 
+Popped: 73. Stack: 7 53 47 
+Popped: 7. Stack: 53 47 
+Popped: 53. Stack: 47 
+Pushed: 34. Stack: 34 47 
+Pushed: 52. Stack: 52 34 47 
+Pushed: 92. Stack: 92 52 34 47 
+Popped: 92. Stack: 52 34 47 
+Popped: 52. Stack: 34 47 
+Popped: 34. Stack: 47 
+Pushed: 21. Stack: 21 47 
+Pushed: 27. Stack: 27 21 47 
+Pushed: 72. Stack: 72 27 21 47 
+Popped: 72. Stack: 27 21 47 
+Popped: 27. Stack: 21 47 
+Popped: 21. Stack: 47 
+Popped: 47. Stack: 
+Pushed: 37. Stack: 37 
+Pushed: 33. Stack: 33 37 
+Pushed: 45. Stack: 45 33 37 
+Pushed: 63. Stack: 63 45 33 37 
+Popped: 63. Stack: 45 33 37 
+Popped: 45. Stack: 33 37 
+Popped: 33. Stack: 37 
+Pushed: 80. Stack: 80 37 
+Pushed: 90. Stack: 90 80 37 
+Pushed: 47. Stack: 47 90 80 37 
+Popped: 47. Stack: 90 80 37 
+Popped: 90. Stack: 80 37 
+Popped: 80. Stack: 37 
+Pushed: 1. Stack: 1 37 
+Pushed: 89. Stack: 89 1 37 
+Popped: 89. Stack: 1 37 
+Popped: 1. Stack: 37 
+Popped: 37. Stack: 
+Pushed: 73. Stack: 73 
+Pushed: 61. Stack: 61 73 
+Pushed: 87. Stack: 87 61 73 
+Popped: 87. Stack: 61 73 
+Popped: 61. Stack: 73 
+Popped: 73. Stack: 
+Pushed: 83. Stack: 83 
+Pushed: 38. Stack: 38 83 
+Pushed: 11. Stack: 11 38 83 
+Popped: 11. Stack: 38 83 
+Popped: 38. Stack: 83 
+Popped: 83. Stack: 
+Pushed: 15. Stack: 15 
+Pushed: 19. Stack: 19 15 
+Pushed: 45. Stack: 45 19 15 
+Popped: 45. Stack: 19 15 
+Popped: 19. Stack: 15 
+Popped: 15. Stack: 
+Pushed: 99. Stack: 99 
+Pushed: 45. Stack: 45 99 
+Pushed: 28. Stack: 28 45 99 
+Popped: 28. Stack: 45 99 
+Popped: 45. Stack: 99 
+Popped: 99. Stack: 
+Pushed: 46. Stack: 46 
+Pushed: 71. Stack: 71 46 
+Pushed: 16. Stack: 16 71 46 
+Popped: 16. Stack: 71 46 
+Popped: 71. Stack: 46 
+Popped: 46. Stack: 
+Pushed: 6. Stack: 6 
+Pushed: 41. Stack: 41 6 
+Pushed: 88. Stack: 88 41 6 
+Popped: 88. Stack: 41 6 
+Popped: 41. Stack: 6 
+Popped: 6. Stack: 
+Pushed: 63. Stack: 63 
+Pushed: 84. Stack: 84 63 
+Pushed: 30. Stack: 30 84 63 
+Popped: 30. Stack: 84 63 
+Popped: 84. Stack: 63 
+Popped: 63. Stack: 
+Pushed: 86. Stack: 86 
+Pushed: 87. Stack: 87 86 
+Pushed: 7. Stack: 7 87 86 
+Popped: 7. Stack: 87 86 
+Popped: 87. Stack: 86 
+Popped: 86. Stack: 
+Pushed: 76. Stack: 76 
+Pushed: 10. Stack: 10 76 
+Pushed: 51. Stack: 51 10 76 
+Popped: 51. Stack: 10 76 
+Popped: 10. Stack: 76 
+Popped: 76. Stack: 
+Pushed: 12. Stack: 12 
+Pushed: 70. Stack: 70 12 
+Pushed: 49. Stack: 49 70 12 
+Popped: 49. Stack: 70 12 
+Popped: 70. Stack: 12 
+Popped: 12. Stack: 
+Pushed: 19. Stack: 19 
+Pushed: 67. Stack: 67 19 
+Pushed: 9. Stack: 9 67 19 
+Popped: 9. Stack: 67 19 
+Popped: 67. Stack: 19 
+Popped: 19. Stack: 
+Pushed: 29. Stack: 29 
+Pushed: 44. Stack: 44 29 
+Pushed: 65. Stack: 65 44 29 
+Popped: 65. Stack: 44 29 
+Popped: 44. Stack: 29 
+Popped: 29. Stack: 
+Pushed: 9. Stack: 9 
+Pushed: 22. Stack: 22 9 
+Pushed: 84. Stack: 84 22 9 
+Popped: 84. Stack: 22 9 
+Popped: 22. Stack: 9 
+Popped: 9. Stack: 
+Pushed: 66. Stack: 66 
+Pushed: 32. Stack: 32 66 
+Pushed: 26. Stack: 26 32 66 
+Popped: 26. Stack: 32 66 
+Popped: 32. Stack: 66 
+Popped: 66. Stack: 
+Pushed: 45. Stack: 45 
+Pushed: 48. Stack: 48 45 
+Pushed: 99. Stack: 99 48 45 
+Pushed: 46. Stack: 46 99 48 45 
+Popped: 46. Stack: 99 48 45 
+Popped: 99. Stack: 48 45 
+Popped: 48. Stack: 45 
+Pushed: 35. Stack: 35 45 
+Pushed: 73. Stack: 73 35 45 
+Pushed: 26. Stack: 26 73 35 45 
+Popped: 26. Stack: 73 35 45 
+Pushed: 51. Stack: 51 73 35 45 
+Pushed: 79. Stack: 79 51 73 35 45 
+Pushed: 43. Stack: 43 79 51 73 35 45 
+Popped: 43. Stack: 79 51 73 35 45 
+Popped: 79. Stack: 51 73 35 45 
+Popped: 51. Stack: 73 35 45 
+Pushed: 55. Stack: 55 73 35 45 
+Pushed: 27. Stack: 27 55 73 35 45 
+Pushed: 7. Stack: 7 27 55 73 35 45 
+Popped: 7. Stack: 27 55 73 35 45 
+Popped: 27. Stack: 55 73 35 45 
+Popped: 55. Stack: 73 35 45 
+Pushed: 25. Stack: 25 73 35 45 
+Pushed: 96. Stack: 96 25 73 35 45 
+Pushed: 69. Stack: 69 96 25 73 35 45 
+Popped: 69. Stack: 96 25 73 35 45 
+Popped: 96. Stack: 25 73 35 45 
+Popped: 25. Stack: 73 35 45 
+Popped: 73. Stack: 35 45 
+Popped: 35. Stack: 45 
+Pushed: 32. Stack: 32 45 
+Pushed: 25. Stack: 25 32 45 
+Pushed: 30. Stack: 30 25 32 45 
+Popped: 30. Stack: 25 32 45 
+Popped: 25. Stack: 32 45 
+Popped: 32. Stack: 45 
+Pushed: 62. Stack: 62 45 
+Pushed: 77. Stack: 77 62 45 
+Pushed: 0. Stack: 0 77 62 45 
+Popped: 0. Stack: 77 62 45 
+Popped: 77. Stack: 62 45 
+Popped: 62. Stack: 45 
+Pushed: 42. Stack: 42 45 
+Pushed: 2. Stack: 2 42 45 
+Pushed: 86. Stack: 86 2 42 45 
+Popped: 86. Stack: 2 42 45 
+Popped: 2. Stack: 42 45 
+Popped: 42. Stack: 45 
+Pushed: 58. Stack: 58 45 
+Pushed: 76. Stack: 76 58 45 
+Pushed: 3. Stack: 3 76 58 45 
+Popped: 3. Stack: 76 58 45 
+Popped: 76. Stack: 58 45 
+Popped: 58. Stack: 45 
+Pushed: 84. Stack: 84 45 
+Pushed: 59. Stack: 59 84 45 
+Pushed: 44. Stack: 44 59 84 45 
+Popped: 44. Stack: 59 84 45 
+Popped: 59. Stack: 84 45 
+Popped: 84. Stack: 45 
+Pushed: 7. Stack: 7 45 
+Pushed: 62. Stack: 62 7 45 
+Pushed: 22. Stack: 22 62 7 45 
+Popped: 22. Stack: 62 7 45 
+Popped: 62. Stack: 7 45 
+Popped: 7. Stack: 45 
+Pushed: 50. Stack: 50 45 
+Pushed: 82. Stack: 82 50 45 
+Popped: 82. Stack: 50 45 
+Popped: 50. Stack: 45 
+Popped: 45. Stack: 
+Pushed: 66. Stack: 66 
+Pushed: 25. Stack: 25 66 
+Pushed: 97. Stack: 97 25 66 
+Popped: 97. Stack: 25 66 
+Popped: 25. Stack: 66 
+Popped: 66. Stack: 
+Pushed: 64. Stack: 64 
+Pushed: 5. Stack: 5 64 
+Pushed: 63. Stack: 63 5 64 
+Popped: 63. Stack: 5 64 
+Popped: 5. Stack: 64 
+Popped: 64. Stack: 
+Pushed: 70. Stack: 70 
+Pushed: 68. Stack: 68 70 
+Pushed: 53. Stack: 53 68 70 
+Pushed: 27. Stack: 27 53 68 70 
+Popped: 27. Stack: 53 68 70 
+Popped: 53. Stack: 68 70 
+Popped: 68. Stack: 70 
+Pushed: 87. Stack: 87 70 
+Pushed: 7. Stack: 7 87 70 
+Pushed: 41. Stack: 41 7 87 70 
+Popped: 41. Stack: 7 87 70 
+Popped: 7. Stack: 87 70 
+Popped: 87. Stack: 70 
+Pushed: 13. Stack: 13 70 
+Pushed: 90. Stack: 90 13 70 
+Popped: 90. Stack: 13 70 
+Popped: 13. Stack: 70 
+Popped: 70. Stack: 
+Pushed: 94. Stack: 94 
+Pushed: 36. Stack: 36 94 
+Pushed: 1. Stack: 1 36 94 
+Popped: 1. Stack: 36 94 
+Popped: 36. Stack: 94 
+Popped: 94. Stack: 
+Pushed: 81. Stack: 81 
+Pushed: 71. Stack: 71 81 
+Pushed: 33. Stack: 33 71 81 
+Pushed: 24. Stack: 24 33 71 81 
+Popped: 24. Stack: 33 71 81 
+Popped: 33. Stack: 71 81 
+Popped: 71. Stack: 81 
+Pushed: 91. Stack: 91 81 
+Pushed: 88. Stack: 88 91 81 
+Pushed: 5. Stack: 5 88 91 81 
+Popped: 5. Stack: 88 91 81 
+Pushed: 92. Stack: 92 88 91 81 
+Pushed: 8. Stack: 8 92 88 91 81 
+Pushed: 38. Stack: 38 8 92 88 91 81 
+Popped: 38. Stack: 8 92 88 91 81 
+Popped: 8. Stack: 92 88 91 81 
+Popped: 92. Stack: 88 91 81 
+Pushed: 0. Stack: 0 88 91 81 
+Pushed: 65. Stack: 65 0 88 91 81 
+Pushed: 61. Stack: 61 65 0 88 91 81 
+Popped: 61. Stack: 65 0 88 91 81 
+Popped: 65. Stack: 0 88 91 81 
+Popped: 0. Stack: 88 91 81 
+Pushed: 78. Stack: 78 88 91 81 
+Pushed: 30. Stack: 30 78 88 91 81 
+Pushed: 84. Stack: 84 30 78 88 91 81 
+Popped: 84. Stack: 30 78 88 91 81 
+Popped: 30. Stack: 78 88 91 81 
+Popped: 78. Stack: 88 91 81 
+Pushed: 23. Stack: 23 88 91 81 
+Pushed: 68. Stack: 68 23 88 91 81 
+Pushed: 38. Stack: 38 68 23 88 91 81 
+Popped: 38. Stack: 68 23 88 91 81 
+Popped: 68. Stack: 23 88 91 81 
+Popped: 23. Stack: 88 91 81 
+Pushed: 17. Stack: 17 88 91 81 
+Pushed: 39. Stack: 39 17 88 91 81 
+Pushed: 97. Stack: 97 39 17 88 91 81 
+Pushed: 85. Stack: 85 97 39 17 88 91 81 
+Pushed: 65. Stack: 65 85 97 39 17 88 91 81 
+Popped: 65. Stack: 85 97 39 17 88 91 81 
+Popped: 85. Stack: 97 39 17 88 91 81 
+Popped: 97. Stack: 39 17 88 91 81 
+Pushed: 30. Stack: 30 39 17 88 91 81 
+Pushed: 97. Stack: 97 30 39 17 88 91 81 
+Pushed: 99. Stack: 99 97 30 39 17 88 91 81 
+Popped: 99. Stack: 97 30 39 17 88 91 81 
+Pushed: 11. Stack: 11 97 30 39 17 88 91 81 
+Pushed: 80. Stack: 80 11 97 30 39 17 88 91 81 
+Popped: 80. Stack: 11 97 30 39 17 88 91 81 
+Popped: 11. Stack: 97 30 39 17 88 91 81 
+Popped: 97. Stack: 30 39 17 88 91 81 
+Pushed: 20. Stack: 20 30 39 17 88 91 81 
+Popped: 20. Stack: 30 39 17 88 91 81 
+Popped: 30. Stack: 39 17 88 91 81 
+Pushed: 10. Stack: 10 39 17 88 91 81 
+Pushed: 78. Stack: 78 10 39 17 88 91 81 
+Popped: 78. Stack: 10 39 17 88 91 81 
+Popped: 10. Stack: 39 17 88 91 81 
+Popped: 39. Stack: 17 88 91 81 
+Pushed: 27. Stack: 27 17 88 91 81 
+Pushed: 16. Stack: 16 27 17 88 91 81 
+Pushed: 3. Stack: 3 16 27 17 88 91 81 
+Popped: 3. Stack: 16 27 17 88 91 81 
+Popped: 16. Stack: 27 17 88 91 81 
+Popped: 27. Stack: 17 88 91 81 
+Pushed: 20. Stack: 20 17 88 91 81 
+Pushed: 42. Stack: 42 20 17 88 91 81 
+Popped: 42. Stack: 20 17 88 91 81 
+Popped: 20. Stack: 17 88 91 81 
+Popped: 17. Stack: 88 91 81 
+Pushed: 43. Stack: 43 88 91 81 
+Pushed: 22. Stack: 22 43 88 91 81 
+Pushed: 19. Stack: 19 22 43 88 91 81 
+Popped: 19. Stack: 22 43 88 91 81 
+Popped: 22. Stack: 43 88 91 81 
+Popped: 43. Stack: 88 91 81 
+Pushed: 42. Stack: 42 88 91 81 
+Pushed: 18. Stack: 18 42 88 91 81 
+Popped: 18. Stack: 42 88 91 81 
+Popped: 42. Stack: 88 91 81 
+Popped: 88. Stack: 91 81 
+Pushed: 40. Stack: 40 91 81 
+Pushed: 74. Stack: 74 40 91 81 
+Pushed: 23. Stack: 23 74 40 91 81 
+Popped: 23. Stack: 74 40 91 81 
+Popped: 74. Stack: 40 91 81 
+Popped: 40. Stack: 91 81 
+Pushed: 53. Stack: 53 91 81 
+Pushed: 0. Stack: 0 53 91 81 
+Pushed: 76. Stack: 76 0 53 91 81 
+Popped: 76. Stack: 0 53 91 81 
+Popped: 0. Stack: 53 91 81 
+Pushed: 56. Stack: 56 53 91 81 
+Pushed: 48. Stack: 48 56 53 91 81 
+Pushed: 40. Stack: 40 48 56 53 91 81 
+Popped: 40. Stack: 48 56 53 91 81 
+Popped: 48. Stack: 56 53 91 81 
+Pushed: 59. Stack: 59 56 53 91 81 
+Pushed: 28. Stack: 28 59 56 53 91 81 
+Pushed: 36. Stack: 36 28 59 56 53 91 81 
+Popped: 36. Stack: 28 59 56 53 91 81 
+Popped: 28. Stack: 59 56 53 91 81 
+Popped: 59. Stack: 56 53 91 81 
+Pushed: 36. Stack: 36 56 53 91 81 
+Pushed: 94. Stack: 94 36 56 53 91 81 
+Pushed: 59. Stack: 59 94 36 56 53 91 81 
+Popped: 59. Stack: 94 36 56 53 91 81 
+Popped: 94. Stack: 36 56 53 91 81 
+Popped: 36. Stack: 56 53 91 81 
+Popped: 56. Stack: 53 91 81 
+Pushed: 69. Stack: 69 53 91 81 
+Pushed: 6. Stack: 6 69 53 91 81 
+Pushed: 61. Stack: 61 6 69 53 91 81 
+Popped: 61. Stack: 6 69 53 91 81 
+Popped: 6. Stack: 69 53 91 81 
+Popped: 69. Stack: 53 91 81 
+Pushed: 75. Stack: 75 53 91 81 
+Pushed: 2. Stack: 2 75 53 91 81 
+Pushed: 21. Stack: 21 2 75 53 91 81 
+Popped: 21. Stack: 2 75 53 91 81 
+Popped: 2. Stack: 75 53 91 81 
+Popped: 75. Stack: 53 91 81 
+Pushed: 82. Stack: 82 53 91 81 
+Pushed: 31. Stack: 31 82 53 91 81 
+Pushed: 13. Stack: 13 31 82 53 91 81 
+Popped: 13. Stack: 31 82 53 91 81 
+Popped: 31. Stack: 82 53 91 81 
+Popped: 82. Stack: 53 91 81 
+Pushed: 85. Stack: 85 53 91 81 
+Pushed: 80. Stack: 80 85 53 91 81 
+Pushed: 78. Stack: 78 80 85 53 91 81 
+Popped: 78. Stack: 80 85 53 91 81 
+Popped: 80. Stack: 85 53 91 81 
+Popped: 85. Stack: 53 91 81 
+Pushed: 89. Stack: 89 53 91 81 
+Pushed: 95. Stack: 95 89 53 91 81 
+Pushed: 57. Stack: 57 95 89 53 91 81 
+Pushed: 34. Stack: 34 57 95 89 53 91 81 
+Popped: 34. Stack: 57 95 89 53 91 81 
+Popped: 57. Stack: 95 89 53 91 81 
+Popped: 95. Stack: 89 53 91 81 
+Pushed: 72. Stack: 72 89 53 91 81 
+Pushed: 54. Stack: 54 72 89 53 91 81 
+Pushed: 57. Stack: 57 54 72 89 53 91 81 
+Popped: 57. Stack: 54 72 89 53 91 81 
+Popped: 54. Stack: 72 89 53 91 81 
+Popped: 72. Stack: 89 53 91 81 
+Pushed: 60. Stack: 60 89 53 91 81 
+Pushed: 74. Stack: 74 60 89 53 91 81 
+Popped: 74. Stack: 60 89 53 91 81 
+Popped: 60. Stack: 89 53 91 81 
+Popped: 89. Stack: 53 91 81 
+Pushed: 79. Stack: 79 53 91 81 
+Pushed: 83. Stack: 83 79 53 91 81 
+Pushed: 17. Stack: 17 83 79 53 91 81 
+Popped: 17. Stack: 83 79 53 91 81 
+Popped: 83. Stack: 79 53 91 81 
+Popped: 79. Stack: 53 91 81 
+Pushed: 15. Stack: 15 53 91 81 
+Pushed: 11. Stack: 11 15 53 91 81 
+Pushed: 15. Stack: 15 11 15 53 91 81 
+Popped: 15. Stack: 11 15 53 91 81 
+Popped: 11. Stack: 15 53 91 81 
+Popped: 15. Stack: 53 91 81 
+Pushed: 5. Stack: 5 53 91 81 
+Pushed: 34. Stack: 34 5 53 91 81 
+Pushed: 59. Stack: 59 34 5 53 91 81 
+Popped: 59. Stack: 34 5 53 91 81 
+Popped: 34. Stack: 5 53 91 81 
+Popped: 5. Stack: 53 91 81 
+Pushed: 98. Stack: 98 53 91 81 
+Pushed: 67. Stack: 67 98 53 91 81 
+Pushed: 46. Stack: 46 67 98 53 91 81 
+Pushed: 30. Stack: 30 46 67 98 53 91 81 
+Popped: 30. Stack: 46 67 98 53 91 81 
+Popped: 46. Stack: 67 98 53 91 81 
+Popped: 67. Stack: 98 53 91 81 
+Pushed: 11. Stack: 11 98 53 91 81 
+Pushed: 63. Stack: 63 11 98 53 91 81 
+Pushed: 19. Stack: 19 63 11 98 53 91 81 
+Popped: 19. Stack: 63 11 98 53 91 81 
+Popped: 63. Stack: 11 98 53 91 81 
+Popped: 11. Stack: 98 53 91 81 
+Pushed: 2. Stack: 2 98 53 91 81 
+Pushed: 86. Stack: 86 2 98 53 91 81 
+Pushed: 95. Stack: 95 86 2 98 53 91 81 
+Popped: 95. Stack: 86 2 98 53 91 81 
+Popped: 86. Stack: 2 98 53 91 81 
+Popped: 2. Stack: 98 53 91 81 
+Pushed: 37. Stack: 37 98 53 91 81 
+Pushed: 98. Stack: 98 37 98 53 91 81 
+Popped: 98. Stack: 37 98 53 91 81 
+Popped: 37. Stack: 98 53 91 81 
+Popped: 98. Stack: 53 91 81 
+Popped: 53. Stack: 91 81 
+Popped: 91. Stack: 81 
+Popped: 81. Stack: 
+Pushed: 18. Stack: 18 
+Pushed: 60. Stack: 60 18 
+Pushed: 11. Stack: 11 60 18 
+Popped: 11. Stack: 60 18 
+Popped: 60. Stack: 18 
+Pushed: 21. Stack: 21 18 
+Pushed: 40. Stack: 40 21 18 
+Pushed: 76. Stack: 76 40 21 18 
+Popped: 76. Stack: 40 21 18 
+Popped: 40. Stack: 21 18 
+Popped: 21. Stack: 18 
+Pushed: 24. Stack: 24 18 
+Pushed: 89. Stack: 89 24 18 
+Pushed: 72. Stack: 72 89 24 18 
+Pushed: 90. Stack: 90 72 89 24 18 
+Pushed: 81. Stack: 81 90 72 89 24 18 
+Pushed: 7. Stack: 7 81 90 72 89 24 18 
+Popped: 7. Stack: 81 90 72 89 24 18 
+Popped: 81. Stack: 90 72 89 24 18 
+Popped: 90. Stack: 72 89 24 18 
+Popped: 72. Stack: 89 24 18 
+Pushed: 49. Stack: 49 89 24 18 
+Pushed: 51. Stack: 51 49 89 24 18 
+Pushed: 80. Stack: 80 51 49 89 24 18 
+Pushed: 8. Stack: 8 80 51 49 89 24 18 
+Popped: 8. Stack: 80 51 49 89 24 18 
+Popped: 80. Stack: 51 49 89 24 18 
+Popped: 51. Stack: 49 89 24 18 
+Pushed: 28. Stack: 28 49 89 24 18 
+Pushed: 37. Stack: 37 28 49 89 24 18 
+Pushed: 36. Stack: 36 37 28 49 89 24 18 
+Pushed: 0. Stack: 0 36 37 28 49 89 24 18 
+Pushed: 58. Stack: 58 0 36 37 28 49 89 24 18 
+Pushed: 32. Stack: 32 58 0 36 37 28 49 89 24 18 
+Popped: 32. Stack: 58 0 36 37 28 49 89 24 18 
+Popped: 58. Stack: 0 36 37 28 49 89 24 18 
+Popped: 0. Stack: 36 37 28 49 89 24 18 
+Pushed: 34. Stack: 34 36 37 28 49 89 24 18 
+Pushed: 66. Stack: 66 34 36 37 28 49 89 24 18 
+Pushed: 96. Stack: 96 66 34 36 37 28 49 89 24 18 
+Pushed: 6. Stack: 6 96 66 34 36 37 28 49 89 24 18 
+Pushed: 55. Stack: 55 6 96 66 34 36 37 28 49 89 24 18 
+Pushed: 92. Stack: 92 55 6 96 66 34 36 37 28 49 89 24 18 
+Popped: 92. Stack: 55 6 96 66 34 36 37 28 49 89 24 18 
+Popped: 55. Stack: 6 96 66 34 36 37 28 49 89 24 18 
+Popped: 6. Stack: 96 66 34 36 37 28 49 89 24 18 
+Popped: 96. Stack: 66 34 36 37 28 49 89 24 18 
+Popped: 66. Stack: 34 36 37 28 49 89 24 18 
+Popped: 34. Stack: 36 37 28 49 89 24 18 
+Popped: 36. Stack: 37 28 49 89 24 18 
+Popped: 37. Stack: 28 49 89 24 18 
+Popped: 28. Stack: 49 89 24 18 
+Pushed: 41. Stack: 41 49 89 24 18 
+Pushed: 95. Stack: 95 41 49 89 24 18 
+Pushed: 57. Stack: 57 95 41 49 89 24 18 
+Popped: 57. Stack: 95 41 49 89 24 18 
+Popped: 95. Stack: 41 49 89 24 18 
+Popped: 41. Stack: 49 89 24 18 
+Pushed: 38. Stack: 38 49 89 24 18 
+Pushed: 14. Stack: 14 38 49 89 24 18 
+Pushed: 92. Stack: 92 14 38 49 89 24 18 
+Popped: 92. Stack: 14 38 49 89 24 18 
+Popped: 14. Stack: 38 49 89 24 18 
+Popped: 38. Stack: 49 89 24 18 
+Pushed: 47. Stack: 47 49 89 24 18 
+Pushed: 91. Stack: 91 47 49 89 24 18 
+Pushed: 17. Stack: 17 91 47 49 89 24 18 
+Popped: 17. Stack: 91 47 49 89 24 18 
+Popped: 91. Stack: 47 49 89 24 18 
+Popped: 47. Stack: 49 89 24 18 
+Pushed: 51. Stack: 51 49 89 24 18 
+Pushed: 72. Stack: 72 51 49 89 24 18 
+Pushed: 13. Stack: 13 72 51 49 89 24 18 
+Popped: 13. Stack: 72 51 49 89 24 18 
+Popped: 72. Stack: 51 49 89 24 18 
+Popped: 51. Stack: 49 89 24 18 
+Pushed: 54. Stack: 54 49 89 24 18 
+Pushed: 20. Stack: 20 54 49 89 24 18 
+Pushed: 9. Stack: 9 20 54 49 89 24 18 
+Popped: 9. Stack: 20 54 49 89 24 18 
+Popped: 20. Stack: 54 49 89 24 18 
+Popped: 54. Stack: 49 89 24 18 
+Pushed: 60. Stack: 60 49 89 24 18 
+Pushed: 64. Stack: 64 60 49 89 24 18 
+Pushed: 97. Stack: 97 64 60 49 89 24 18 
+Pushed: 34. Stack: 34 97 64 60 49 89 24 18 
+Popped: 34. Stack: 97 64 60 49 89 24 18 
+Popped: 97. Stack: 64 60 49 89 24 18 
+Popped: 64. Stack: 60 49 89 24 18 
+Pushed: 44. Stack: 44 60 49 89 24 18 
+Pushed: 15. Stack: 15 44 60 49 89 24 18 
+Pushed: 55. Stack: 55 15 44 60 49 89 24 18 
+Popped: 55. Stack: 15 44 60 49 89 24 18 
+Popped: 15. Stack: 44 60 49 89 24 18 
+Popped: 44. Stack: 60 49 89 24 18 
+Pushed: 57. Stack: 57 60 49 89 24 18 
+Pushed: 69. Stack: 69 57 60 49 89 24 18 
+Pushed: 73. Stack: 73 69 57 60 49 89 24 18 
+Popped: 73. Stack: 69 57 60 49 89 24 18 
+Popped: 69. Stack: 57 60 49 89 24 18 
+Popped: 57. Stack: 60 49 89 24 18 
+Pushed: 73. Stack: 73 60 49 89 24 18 
+Pushed: 75. Stack: 75 73 60 49 89 24 18 
+Pushed: 90. Stack: 90 75 73 60 49 89 24 18 
+Popped: 90. Stack: 75 73 60 49 89 24 18 
+Popped: 75. Stack: 73 60 49 89 24 18 
+Popped: 73. Stack: 60 49 89 24 18 
+Pushed: 43. Stack: 43 60 49 89 24 18 
+Pushed: 53. Stack: 53 43 60 49 89 24 18 
+Popped: 53. Stack: 43 60 49 89 24 18 
+Popped: 43. Stack: 60 49 89 24 18 
+Popped: 60. Stack: 49 89 24 18 
+Pushed: 49. Stack: 49 49 89 24 18 
+Pushed: 70. Stack: 70 49 49 89 24 18 
+Popped: 70. Stack: 49 49 89 24 18 
+Popped: 49. Stack: 49 89 24 18 
+Popped: 49. Stack: 89 24 18 
+Pushed: 80. Stack: 80 89 24 18 
+Pushed: 3. Stack: 3 80 89 24 18 
+Pushed: 51. Stack: 51 3 80 89 24 18 
+Popped: 51. Stack: 3 80 89 24 18 
+Popped: 3. Stack: 80 89 24 18 
+Popped: 80. Stack: 89 24 18 
+Pushed: 70. Stack: 70 89 24 18 
+Pushed: 26. Stack: 26 70 89 24 18 
+Pushed: 94. Stack: 94 26 70 89 24 18 
+Popped: 94. Stack: 26 70 89 24 18 
+Popped: 26. Stack: 70 89 24 18 
+Popped: 70. Stack: 89 24 18 
+Pushed: 83. Stack: 83 89 24 18 
+Pushed: 52. Stack: 52 83 89 24 18 
+Pushed: 15. Stack: 15 52 83 89 24 18 
+Popped: 15. Stack: 52 83 89 24 18 
+Popped: 52. Stack: 83 89 24 18 
+Popped: 83. Stack: 89 24 18 
+Pushed: 87. Stack: 87 89 24 18 
+Pushed: 0. Stack: 0 87 89 24 18 
+Pushed: 11. Stack: 11 0 87 89 24 18 
+Popped: 11. Stack: 0 87 89 24 18 
+Popped: 0. Stack: 87 89 24 18 
+Popped: 87. Stack: 89 24 18 
+Pushed: 96. Stack: 96 89 24 18 
+Pushed: 77. Stack: 77 96 89 24 18 
+Pushed: 67. Stack: 67 77 96 89 24 18 
+Popped: 67. Stack: 77 96 89 24 18 
+Popped: 77. Stack: 96 89 24 18 
+Popped: 96. Stack: 89 24 18 
+Pushed: 3. Stack: 3 89 24 18 
+Pushed: 6. Stack: 6 3 89 24 18 
+Pushed: 28. Stack: 28 6 3 89 24 18 
+Popped: 28. Stack: 6 3 89 24 18 
+Popped: 6. Stack: 3 89 24 18 
+Popped: 3. Stack: 89 24 18 
+Pushed: 93. Stack: 93 89 24 18 
+Pushed: 29. Stack: 29 93 89 24 18 
+Pushed: 71. Stack: 71 29 93 89 24 18 
+Popped: 71. Stack: 29 93 89 24 18 
+Popped: 29. Stack: 93 89 24 18 
+Popped: 93. Stack: 89 24 18 
+Popped: 89. Stack: 24 18 
+Popped: 24. Stack: 18 
+Popped: 18. Stack: 
+Pushed: 31. Stack: 31 
+Pushed: 17. Stack: 17 31 
+Pushed: 32. Stack: 32 17 31 
+Popped: 32. Stack: 17 31 
+Popped: 17. Stack: 31 
+Popped: 31. Stack: 
+Pushed: 77. Stack: 77 
+Pushed: 23. Stack: 23 77 
+Pushed: 54. Stack: 54 23 77 
+Popped: 54. Stack: 23 77 
+Popped: 23. Stack: 77 
+Popped: 77. Stack: 
+Final stack elements: 
