@@ -23,7 +23,12 @@ struct StackNode {
     StackNode* next;
 };
 
-// Mutex for synchronizing access to the stack
+// // Stack function declarations (NOT USED IN C++)
+// void push (value_t v, StackNode **top);
+// value_t pop ( StackNode **top);
+// int is_empty( StackNode *top);
+
+// Mutex to synchronize access to the stack
 pthread_mutex_t stack_mutexlock = PTHREAD_MUTEX_INITIALIZER;
 
 // Stack function declarations
@@ -37,8 +42,8 @@ std::ofstream outputFile("output.txt");
 
 int main() {
     if (!outputFile.is_open()) {
-        std::cerr << "Failed to open output file" << std::endl;
-        exit(EXIT_FAILURE);
+        std::cerr << "Failed to open output file" << std::endl; //This shouldn't happen, but just in case
+        exit(EXIT_FAILURE); 
     }
 
     // Initialize stack
